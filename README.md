@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=%20Welcome%20to%20Rotang-hub%20&fontSize=60&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn)
 
-<div style="display: flex; flex-direction: row;">
-	<img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
-</div>
-	
 <div align=center>
+	<img class="img" src="https://github-readme-stats.vercel.app/api?username=Rotang-hub&show_icons=true&theme=radical&locale=kr" />
 	<br/>
 	<br/>
 	<br/>
