@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=Rotang's%20Github&fontSize=60&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn)
 
-<h3 align=center> 
+<h1 align=center> 
 	👋Hi there👋
-</h3>
+</h1>
 
 <div align=center>
 	I'm Minecraft Plugin Developer🖥️  <br>
@@ -11,9 +11,9 @@
 	<br>
 </div>	
 
-<h3 align=center> 
+<h1 align=center> 
 	🔨Tech Stack🔧
-</h3>
+</h1>
 	
 <p align=center>
  	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -25,9 +25,9 @@
 	<br>
 </p>
 
-<h3 align=center>
+<h1 align=center>
 	 ⚙️My Github Stats⚙️
-</h3>
+</h1>
 	
 <div align=center>
 	<img class="img" src="https://github-readme-stats.vercel.app/api?username=Rotang-hub&show_icons=true&theme=great-gatsby" />
