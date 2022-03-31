@@ -41,7 +41,7 @@
 	 ⚙️My Github Stats⚙️
 </h3>
 
-<div style="align:center">
+<div align=center>
 	<img class="img" src="https://github-readme-stats.vercel.app/api?username=Rotang-hub&show_icons=true&theme=great-gatsby" />
 	<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotang-hub&theme=great-gatsby&layout=compact" />
 </div>
