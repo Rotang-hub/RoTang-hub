@@ -40,7 +40,8 @@
 <h3 align=center>
 	 ⚙️My Github Stats⚙️
 </h3>
-	
-<div align=center>
+
+<div style="display: flex; flex-direction: row;">
 	<img class="img" src="https://github-readme-stats.vercel.app/api?username=Rotang-hub&show_icons=true&theme=great-gatsby" />
+	<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotang-hub&theme=great-gatsby&layout=compact" />
 </div>
