@@ -31,8 +31,10 @@
 
 <p align=center>
  	<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
+	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=Stack%20Overflow&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=Minecraft&logoColor=white"/>
 	<br>
 	<br>
 </p>
