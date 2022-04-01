@@ -5,7 +5,7 @@
 </h3>
 
 <div align=center>
-	I'm Minecraft Plugin Developer🖥️  <br>
+	I'm a Minecraft Plugin Developer🖥️  <br>
 	I Love Coffee☕
 	<br>
 	<br>
@@ -44,6 +44,6 @@
 </h3>
 
 <div align=center>
-	<img class="img" src="https://github-readme-stats.vercel.app/api?username=Rotang-hub&show_icons=true&theme=great-gatsby" />
-	<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotang-hub&theme=great-gatsby&layout=compact" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Rotang-hub&show_icons=true&theme=great-gatsby" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotang-hub&theme=great-gatsby&layout=compact" />
 </div>
