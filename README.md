@@ -15,7 +15,11 @@ I Love Coffee☕
 	🔨Tech Stack🔧
 </h3>
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 <br>
 <br>
 
@@ -23,4 +27,7 @@ I Love Coffee☕
 	🎶
 </h3>
 
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=Stack%20Overflow&logoColor=white"/> <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=Minecraft&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=Stack%20Overflow&logoColor=white">
+<img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=Minecraft&logoColor=white">
