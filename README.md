@@ -10,10 +10,13 @@ I'm a Minecraft Plugin Developer🖥️  <br>
 I Love Coffee☕
 <br>
 <br>
+<br>
 
 <h3> 
 	🔨Tech Stack🔧
 </h3>
+
+<img align=right src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koj5695">
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -22,8 +25,7 @@ I Love Coffee☕
 <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 <br>
 <br>
-
-<img align=right src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koj5695">
+<br>
 
 <h3> 
 	🎶
