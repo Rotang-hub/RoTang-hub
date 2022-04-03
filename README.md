@@ -23,6 +23,8 @@ I Love Coffee☕
 <br>
 <br>
 
+<img align=right src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koj5695">
+
 <h3> 
 	🎶
 </h3>
