@@ -6,9 +6,9 @@
 	👋Hi there👋
 </h3>
 
-- I'm a Minecraft Plugin Developer🖥️  <br>
+- I'm Java Programmer🖥️  <br>
+- I mainly develop Minecraft Plugins🕶️  <br>
 - I Love Coffee☕
-<br>
 <br>
 <br>
 
