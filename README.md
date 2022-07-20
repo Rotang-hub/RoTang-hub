@@ -2,18 +2,17 @@
 
 <img align=right src="https://github-readme-stats.vercel.app/api?username=Rotang-hub&show_icons=true&theme=great-gatsby" />
 
-<h3> 
-	👋Hi there👋
-</h3>
+<h2> 
+	🕶️  I'm
+</h2>
 
-- **I'm Java Programmer🖥️**  <br>
-- **I mainly develop Minecraft Plugins🕶️**  <br>
-- **I Love Coffee☕**
-<br>
+- **Java Programmer 🖥️**  <br>
+- **Minecraft Plugins Developer 🔌**  <br>
+- **Coffee Lover ☕**
 <br>
 
 <h3> 
-	🔨Tech Stack🔧
+	🔧 Tech Stack
 </h3>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
