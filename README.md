@@ -16,8 +16,6 @@
 	🔨Tech Stack🔧
 </h3>
 
-<img align=right src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koj5695">
-
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -27,13 +25,3 @@
 <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <br>
-<br>
-
-<h3> 
-	🎶
-</h3>
-
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=Stack%20Overflow&logoColor=white">
-<img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=Minecraft&logoColor=white">
